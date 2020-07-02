@@ -2,7 +2,7 @@ all:README.md
 
      README.md:guessinggame.sh
                touch README.md
-               echo "GUESS FILE GAME "> READ.md
+               echo "GUESSING FILE GAME "> READ.md
                now="$(date)"
               echo "DATE and TIME $now">>README.md
               echo "Total lines in program">>README.md
